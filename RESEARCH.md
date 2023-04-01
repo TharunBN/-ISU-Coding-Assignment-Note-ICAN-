@@ -22,4 +22,4 @@ Sources:
     Source:https://www.youtube.com/watch?v=Tk1nPdwQWqI
     Reason: I need my characters and AI be able to jump around and dodge.
     
-Still looking for more videos to add on and trying to learn other ways I can make my game better.
+ ~ Still looking for more videos to add on and trying to learn other ways I can make my game better.
